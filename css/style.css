@@ -1,0 +1,10 @@
+  body {
+    font-family: 'Roboto', sans-serif;    
+    max-width: 700px;
+    margin-left: 10px; 
+    }
+  .header__title {
+    margin-left: 150px;
+    font-family: 'Playfair Display', serif;
+    }
+    
